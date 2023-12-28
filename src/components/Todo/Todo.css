@@ -1,0 +1,22 @@
+.span{
+    padding: 10px;
+}
+
+.todoBtn{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(73, 108, 195);
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+}
+
+.filterPp{
+    font-size: 20px;
+    padding: 10px;
+    right : 20px;
+}

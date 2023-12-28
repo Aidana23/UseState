@@ -1,0 +1,7 @@
+form .giphyBtn{
+    cursor: pointer;
+    transform: scale(1.05);
+    color: rgb(141, 235, 10);
+    border-radius: 20px;
+    background-color: rgb(76, 76, 197);
+}

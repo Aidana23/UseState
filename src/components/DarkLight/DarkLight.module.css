@@ -1,0 +1,14 @@
+.white{
+    background-color: #FFFFFF;
+    color: #000000;
+  }
+  
+  .black{
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+  
+  .button .btn{
+    border-radius: 20px;
+    background-color: rgb(72, 72, 155);
+  }
